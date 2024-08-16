@@ -1,0 +1,14 @@
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\bin\Debug\net8.0\MiPrimerApp.exe
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\bin\Debug\net8.0\MiPrimerApp.deps.json
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\bin\Debug\net8.0\MiPrimerApp.runtimeconfig.json
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\bin\Debug\net8.0\MiPrimerApp.dll
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\bin\Debug\net8.0\MiPrimerApp.pdb
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\obj\Debug\net8.0\MiPrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\obj\Debug\net8.0\MiPrimerApp.AssemblyInfoInputs.cache
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\obj\Debug\net8.0\MiPrimerApp.AssemblyInfo.cs
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\obj\Debug\net8.0\MiPrimerApp.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\obj\Debug\net8.0\MiPrimerApp.dll
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\obj\Debug\net8.0\refint\MiPrimerApp.dll
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\obj\Debug\net8.0\MiPrimerApp.pdb
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\obj\Debug\net8.0\MiPrimerApp.genruntimeconfig.cache
+C:\Users\juanc\Desktop\Projects\C#\MiPrimerApp\obj\Debug\net8.0\ref\MiPrimerApp.dll
